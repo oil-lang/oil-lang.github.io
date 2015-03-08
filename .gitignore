@@ -1,0 +1,5 @@
+node_modules
+index-dev.html
+templates/*.d.ts
+dist/*.js.map
+dist/dev.js
