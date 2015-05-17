@@ -1,0 +1,11 @@
+site_name: Oil
+theme_dir: theme
+repo_url: https://github.com/oil-lang/oil-rs
+docs_dir: ../../oil-rs/docs/
+site_dir: ../
+pages:
+- ['index.md', 'Getting Started']
+- ['languages_reference/intro.md', 'Languages Reference', 'Design']
+- ['languages_reference/tag_list.md', 'Languages Reference', 'Markup tags']
+- ['languages_reference/properties_list.md', 'Languages Reference', 'Style properties']
+- ['action.md', 'Actions']
