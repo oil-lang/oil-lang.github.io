@@ -47,3 +47,10 @@ body {
 .oil-logo > svg:hover {
     background-color: #090909;
 }
+
+.welcome-logo {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: auto;
+}
