@@ -1,19 +1,19 @@
 {
-  "name": "uil-lang.github.io",
+  "name": "oil-lang.github.io",
   "version": "1.0.0",
-  "description": "http://uil-lang.github.io",
+  "description": "http://oil-lang.github.io",
   "main": "index.js",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/uil-lang/uil-lang.github.io.git"
+    "url": "https://github.com/oil-lang/oil-lang.github.io.git"
   },
   "author": "Nemikolh",
   "license": "GPLv3",
   "bugs": {
-    "url": "https://github.com/uil-lang/uil-lang.github.io/issues"
+    "url": "https://github.com/oil-lang/oil-lang.github.io/issues"
   },
-  "homepage": "https://uil-lang.github.io",
+  "homepage": "https://oil-lang.github.io",
   "devDependencies": {
     "brfs": "^1.4.0",
     "browser-sync": "^2.2.1",
